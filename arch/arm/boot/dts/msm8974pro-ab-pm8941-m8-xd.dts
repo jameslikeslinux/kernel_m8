@@ -22,7 +22,8 @@
 / {
 	model = "M8 XD";
 	compatible = "htc,msm8974", "htc,m8", "qcom,msm8974-mtp", "qcom,msm8974", "qcom,mtp";
-	htc,project-id = <271 3 0x10000>,
+	htc,project-id = <266 3 0x10000>,
+			 <271 3 0x10000>,
 			 <272 3 0x10000>,
 			 <273 3 0x10000>,
 			 <280 3 0x10000>,
